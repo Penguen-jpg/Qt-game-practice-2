@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bullet.png</file>
+        <file>enemy.png</file>
+        <file>cursor.png</file>
+        <file>build.png</file>
+        <file>green_tower.png</file>
+        <file>red_tower.png</file>
+        <file>build_green.png</file>
+        <file>build_red.png</file>
+        <file>grey_tower.png</file>
+        <file>build_grey.png</file>
+    </qresource>
+</RCC>
